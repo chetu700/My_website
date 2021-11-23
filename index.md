@@ -1,6 +1,9 @@
 ## CHAITANYA S K
 Research Scholar, Indian Institute of Technology Madras.
+
 [chaitanya.acharya.007@gmail.com](chaitanya.acharya.007@gmail.com)
+
+I am currently pursuing my Ph.D. degree at Indian Institute of Technology Madras in Mechanical Engineering. I am actively involved in the fields of acoustics, inverse problems, signal processing, and jet flow. My research focuses on sound source localization.
 
 You can use the [editor on GitHub](https://github.com/chetu700/My_website/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
