@@ -1,7 +1,7 @@
 ## CHAITANYA S K
 Research Scholar, Indian Institute of Technology Madras.
 
-[chaitanya.acharya.007@gmail.com](chaitanya.acharya.007@gmail.com)
+Email: [chaitanya.acharya.007@gmail.com](chaitanya.acharya.007@gmail.com)
 
 I am currently pursuing my Ph.D. degree at Indian Institute of Technology Madras in Mechanical Engineering under the guidance of [Prof. K. Srinivasan](https://sites.google.com/site/jetflowacoustics/). I am actively involved in the fields of acoustics, inverse problems, signal processing, and jet flow. My research focuses on sound source localization.
 
