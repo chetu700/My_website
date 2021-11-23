@@ -1,3 +1,0 @@
-# CHAITANYA S K
-
-
