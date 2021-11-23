@@ -1,5 +1,5 @@
-## Welcome to GitHub Pages
-
+## CHAITANYA s k
+Research Scholar, Indian Institute of Technology Madras
 You can use the [editor on GitHub](https://github.com/chetu700/My_website/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
